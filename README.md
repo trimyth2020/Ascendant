@@ -5,8 +5,6 @@
 
 **Current Progress:**
 
-[x] *High Concept*
-
-[x] *Proof of Concept*
-
-[ ] *Vertical Slice*
+- [x] *High Concept*
+- [x] *Proof of Concept*
+- [ ] *Vertical Slice*
